@@ -1,0 +1,14 @@
+# This file is used to ignore files which are generated
+*.o
+*.obj
+.vscode/
+*.debug
+Makefile*
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+
+# Skipping executable files
+*.exe
+*.out
+main

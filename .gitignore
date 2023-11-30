@@ -1,0 +1,12 @@
+task
+main
+db
+.vscode/*
+build*
+*.out
+*.o
+*.docx
+*.doc
+Makefile
+*.txt
+.json
